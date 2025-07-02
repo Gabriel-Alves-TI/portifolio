@@ -113,6 +113,11 @@ header .interface .logo img{
   zoom: 3;
 }
 
+.custom-color {
+  background-color: rgba(5, 252, 252, 0.788);
+}
+
+
 /* ESTILO DO MENU MOBILE */
 .btn-abrir-menu{
   display: none;
